@@ -1,2 +1,5 @@
 # testrepo
-Creating a repo exercise for coursera
+
+##Editing the file
+
+Its a markdown file in this repo
